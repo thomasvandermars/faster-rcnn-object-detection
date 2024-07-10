@@ -9,12 +9,12 @@ The notebook in this project walks you through how the model was trained and how
 
 ## Model Performance on Videos
 
-<img src="lib/test_1.mp4" width="100%"/>
-<img src="lib/test_2.mp4" width="100%"/>
-<img src="lib/test_3.mp4" width="100%"/>
-<img src="lib/test_4.mp4" width="100%"/>
-<img src="lib/test_5.mp4" width="100%"/>
-<img src="lib/test_6.mp4" width="100%"/>
+<img src="lib/test_1.gif" width="100%"/>
+<img src="lib/test_2.gif" width="100%"/>
+<img src="lib/test_3.gif" width="100%"/>
+<img src="lib/test_4.gif" width="100%"/>
+<img src="lib/test_5.gif" width="100%"/>
+<img src="lib/test_6.gif" width="100%"/>
 
 ## The /datasets/ Folder
 This project has a /datasets/ folder which contains the datasets that can be used for training the object detection models. Each /datasets/ subdirectory holds a dataset and each dataset folder, in turn, has an /images/ and an /annotations/ folder. The images are naturally stored in the /images/ subdirectory and the annotations are stored in the /annotations/ subdirectory. The annotations have to be in PASCAL VOC XML format.
