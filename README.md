@@ -22,9 +22,9 @@ You can easily add, remove, or replace datasets to adjust the scope of the objec
 
 NOTE that the /datasets/ folder currently only holds an example dataset to clarify the way datasets have to be structured.
 
-## Pretrained Weights
-In order to upload the trained model weights (.h5 file) for the Region Proposal Network (RPN) (file size was too large), I had to split the weights file using WinRar (creating multiple partX.rar files).
-Re-combining after downloading them using WinRar is fairly straightforward. This video does a good job explaining how: https://www.youtube.com/watch?v=mL93VigLaYo. 
+## Using Trained Model Weights
+In order to upload the trained model weights (.h5 file) for the Region Proposal Network (RPN) (see ./pretrained/weights/RPN/ folder), I had to split the weights file using WinRar (creating multiple part.rar files).
+Re-combining the files (after downloading) using WinRar is fairly straightforward. This video does a good job explaining how: https://www.youtube.com/watch?v=mL93VigLaYo. 
 
 ## Faster Region-based Convolutional Neural Network (Faster R-CNN)
 
