@@ -26,7 +26,7 @@ NOTE that the /datasets/ folder currently only holds an example dataset to clari
 In order to upload the trained model weights (.h5 file) for the Region Proposal Network (RPN) (see ./pretrained/weights/RPN/ folder), I had to split the weights file using WinRar (creating multiple part.rar files).
 Re-combining the files (after downloading) using WinRar is fairly straightforward. This video does a good job explaining how: https://www.youtube.com/watch?v=mL93VigLaYo. 
 
-## Faster Region-based Convolutional Neural Network (Faster R-CNN)
+# Faster Region-based Convolutional Neural Network (Faster R-CNN)
 
 Faster R-CNN is a so-called one-shot object detector. The first part of the model is aimed at proposing regions within the image that conatin the objects. This is done through what is called a Region Proposal Network (RPN). The second stage is a Convolutional Neural Network (CNN), which can classify these regions of interest (ROIs) into one of several class labels.
 
