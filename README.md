@@ -24,7 +24,7 @@ NOTE that the /datasets/ folder currently only holds an example dataset to clari
 
 ## Using Trained Model Weights
 In order to upload the trained model weights (.h5 file) for the Region Proposal Network (RPN) (see ./pretrained/weights/RPN/ folder), I had to split the weights file using WinRar (creating multiple part.rar files).
-Re-combining the files (after downloading) using WinRar is fairly straightforward. This video does a good job explaining how: https://www.youtube.com/watch?v=mL93VigLaYo. 
+Re-combining the files (after downloading) using WinRar is fairly straightforward. This video does a good job explaining how: https://www.youtube.com/watch?v=hIshRXe2pYU. 
 
 # Faster Region-based Convolutional Neural Network (Faster R-CNN)
 
